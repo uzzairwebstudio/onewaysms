@@ -1,0 +1,18 @@
+{
+    "name": "uzzairwebstudio/onewaysms",
+    "description": "A helpful wrapper for One Way SMS API.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uzzairwebstudio\\Onewaysms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uzzair B.",
+            "email": "founder@uzzairwebstudio.com"
+        }
+    ],
+    "require": {}
+}
